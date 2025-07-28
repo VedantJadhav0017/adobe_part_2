@@ -13,8 +13,8 @@ AntonPDF-1B is a tool for performing smart semantic search and automated query r
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Prtm2110/AntonPDF-1B.git
-cd AntonPDF-1B-main
+git clone https://github.com/VedantJadhav0017/adobe_part_2.git
+cd adobe_part_2
 ```
 
 ### Install Requirements
