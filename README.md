@@ -30,8 +30,15 @@ git clone https://github.com/VedantJadhav0017/adobe_part_2.git
 
 ### Prerequisites
 
+<<<<<<< HEAD
 * Python 3.8+
 * [docker](https://www.docker.com/) (optional, for containerized usage)
+=======
+```bash
+git clone https://github.com/VedantJadhav0017/adobe_part_2.git
+cd adobe_part_2
+```
+>>>>>>> 63e1516554ebfd838d71fcf6f24f457618028a21
 
 ### Installation
 
